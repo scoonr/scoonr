@@ -118,12 +118,12 @@ body {
 }
 
 ::selection {
-  background: #f1556a;
+  background: #27095D;
   color: #fff;
 }
 
 ::-moz-selection {
-  background: #f1556a;
+  background: #27095D;
   color: #fff;
 }
 
@@ -874,7 +874,7 @@ testimonials
 
 #testimonials .item .testimonial-content {
   background: #FFA01A;
-  background: linear-gradient(145deg, #FFA01A 0%, #27095D 100%);
+  background: linear-gradient(145deg, #FFA01A 20%, #27095D 80%);
   margin-left: 60px;
   padding: 40px 30px;
   text-align: center;
@@ -927,8 +927,8 @@ testimonials
   line-height: 80px;
   text-align: center;
   display: inline-block;
-  background: rgb(244,129,63);
-  background: linear-gradient(145deg, rgba(244,129,63,1) 0%, rgba(241,85,106,1) 100%);
+  background: #FFA01A;
+  background: linear-gradient(145deg, #FFA01A 20%, #27095D 80%);;
   position: absolute;
 }
 
@@ -945,7 +945,7 @@ testimonials
   text-align: center;
   display: inline-block;
   background: #FFA01A;
-  background: linear-gradient(145deg, #FFA01A 0%, #27095D 100%);;
+  background: linear-gradient(145deg, #FFA01A 20%, #27095D 80%);;
   position: absolute;
 }
 
@@ -1060,7 +1060,7 @@ footer .right-content {
 
 .footer-content .right-content h2 em {
   font-style: normal;
-  color: #fba70b;
+  color: #27095D;
 }
 
 .footer-content .right-content p {
@@ -1107,8 +1107,8 @@ footer .social li a {
 }
 
 footer .social li a:hover {
-  background-color: #fba70b;
-  border-color: #fba70b;
+  background-color: #27095D;
+  border-color: #27095D;
   color: #fff;
 }
 
@@ -1158,7 +1158,7 @@ preloader
 */
 #preloader {
   overflow: hidden;
-  background-image: linear-gradient(145deg, #f4813f 0%, #f1556a 100%);
+  background-image: linear-gradient(145deg, #FFA01A 20%, #27095D 80%);
   left: 0;
   right: 0;
   top: 0;
