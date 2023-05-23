@@ -147,7 +147,7 @@ a.main-button-slider {
   font-size: 14px;
   border-radius: 25px;
   padding: 15px 25px;
-  background-color: #fba70b;
+  background-color: #FFA01A;
   text-transform: uppercase;
   color: #fff;
   font-weight: 600;
@@ -159,14 +159,14 @@ a.main-button-slider {
 }
 
 a.main-button-slider:hover {
-  background-color: #f1556a;
+  background-color: #4C11B4;
 }
 
 a.main-button {
   font-size: 14px;
   border-radius: 25px;
   padding: 15px 25px;
-  background-color: #f4813f;
+  background-color: #FFA01A;
   text-transform: uppercase;
   color: #fff;
   font-weight: 600;
@@ -178,7 +178,7 @@ a.main-button {
 }
 
 a.main-button:hover {
-  background-color: #f1556a;
+  background-color: #4C11B4;
 }
 
 button.main-button {
@@ -188,7 +188,7 @@ button.main-button {
   font-size: 14px;
   border-radius: 25px;
   padding: 15px 25px;
-  background-color: #f4813f;
+  background-color: #FFA01A;
   text-transform: uppercase;
   color: #fff;
   font-weight: 600;
@@ -200,7 +200,7 @@ button.main-button {
 }
 
 button.main-button:hover {
-  background-color: #f1556a;
+  background-color: #4C11B4;
 }
 
 
@@ -219,7 +219,7 @@ button.main-button:hover {
 
 .center-heading h2 em {
   font-style: normal;
-  color: #f4813f;
+  color: #FFA01A;
 }
 
 .center-heading p {
@@ -281,7 +281,7 @@ header
   color: #191a20;
   font-size: 28px;
   font-weight: 700;
-  text-transform: uppercase;
+  text-transform: lowercase;
   letter-spacing: 2px;
   float: left;
   -webkit-transition: all 0.3s ease 0s;
@@ -397,12 +397,12 @@ header
   -moz-transition: all 0.3s ease 0s;
   -o-transition: all 0.3s ease 0s;
   transition: all 0.3s ease 0s;
-  background: #fba70b;
+  background: #FFA01A;
 }
 
 .header-area .main-nav .nav li.submenu ul li a:hover {
   background: #fff;
-  color: #fba70b!important;
+  color: #FFA01A!important;
   padding-left: 25px;
 }
 
@@ -606,7 +606,7 @@ header
   }
   .header-area .main-nav .nav li a:hover {
     background: #eee !important;
-    color: #fba70b!important;
+    color: #FFA01A!important;
   }
   .header-area .main-nav .nav li.submenu ul {
     position: relative;
@@ -657,7 +657,7 @@ welcome
   width: 100%;
   height: 100vh;
   min-height: 793px;
-  background-image: url(../images/banner-bg.png);
+  background-image: url(../images/hero-ship.png);
   background-repeat: no-repeat;
   background-position: right top;
 }
@@ -680,7 +680,7 @@ welcome
 
 .welcome-area .header-text h1 em {
   font-style: normal;
-  color: #fba70b;
+  color: #FFA01A;
 }
 
 .welcome-area .header-text p {
@@ -873,8 +873,8 @@ testimonials
 }
 
 #testimonials .item .testimonial-content {
-  background: rgb(244,129,63);
-  background: linear-gradient(145deg, rgba(244,129,63,1) 0%, rgba(241,85,106,1) 100%);
+  background: #FFA01A;
+  background: linear-gradient(145deg, #FFA01A 0%, #27095D 100%);
   margin-left: 60px;
   padding: 40px 30px;
   text-align: center;
@@ -944,8 +944,8 @@ testimonials
   line-height: 80px;
   text-align: center;
   display: inline-block;
-  background: rgb(244,129,63);
-  background: linear-gradient(145deg, rgba(244,129,63,1) 0%, rgba(241,85,106,1) 100%);
+  background: #FFA01A;
+  background: linear-gradient(145deg, #FFA01A 0%, #27095D 100%);;
   position: absolute;
 }
 
