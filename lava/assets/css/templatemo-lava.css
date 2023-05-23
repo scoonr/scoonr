@@ -664,7 +664,7 @@ welcome
 */
 .welcome-area {
   width: 100%;
-  height: 100vh;
+  height: 75vh;
   min-height: 793px;
   background-image: url(../images/hero-ship.png);
   background-repeat: no-repeat;
@@ -914,6 +914,12 @@ testimonials
 }
 
 #testimonials .item .testimonial-content span {
+  color: #fff;
+  font-weight: 200;
+  font-size: 13px;
+}
+
+#testimonials .item .testimonial-content div {
   color: #fff;
   font-weight: 200;
   font-size: 13px;
